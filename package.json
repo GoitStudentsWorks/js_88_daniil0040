@@ -1,11 +1,11 @@
 {
-  "name": "project-team-scriptores",
+  "name": "Team 4 FSON 88",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-team-scriptores/",
+    "build": "vite build --base=/js_88_daniil0040/",
     "preview": "vite preview"
   },
   "devDependencies": {
